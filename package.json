@@ -1,0 +1,31 @@
+{
+  "name": "notchup",
+  "version": "1.0.0",
+  "description": "A nodeJs case study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepCodeWork/NotchUp.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "reactjs",
+    "nodejs"
+  ],
+  "author": "DeepCodeWork",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepCodeWork/NotchUp/issues"
+  },
+  "homepage": "https://github.com/DeepCodeWork/NotchUp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
