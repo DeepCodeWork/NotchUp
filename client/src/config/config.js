@@ -1,0 +1,2 @@
+exports.API = 'https://script.googleusercontent.com/macros/echo?user_content_key=buA96iHYsmPh2OfEgyZ5HqqNA-zQU47sDEbpIn9lRd04_eavuxT7FZHr717G73tCFME-cUqmckK1hyFd3n_CnlnFo7LK5L9-m5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnC09Nb0QZ6ca_LU0vmo6mSiQ7SyFG3CgdL9-1Vgcha-TAYaAGhh-9xNG-9rMNEZHQRElvdDletx0&lib=MlJcTt87ug5f_XmzO-tnIbN3yFe7Nfhi6'
+exports.EMAIL_API = 'http://localhost:8006/api/email';
